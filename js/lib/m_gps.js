@@ -85,7 +85,7 @@ define([
     _this.listenTo(mMAP, "evt-map-set-player-location", function(loc) {
       _this.setPlayerLocation(loc)
     })
-    //_this.Stop()
+    _this.Start()
   }
 
   // extends module with Backbone Events
