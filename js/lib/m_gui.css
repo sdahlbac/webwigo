@@ -54,15 +54,15 @@
 }
 
 .wig-btn-small {
-  height: 48px;
+  min-height: 48px;
 }
 
 .wig-btn-medium {
-  height: 64px;
+  min-height: 64px;
 }
 
 .wig-btn-large {
-  height: 96px;
+  min-height: 96px;
 }
 
 .wig-table {
